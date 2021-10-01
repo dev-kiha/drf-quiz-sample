@@ -1,2 +1,2 @@
 # drf-quiz-simple
-Django Rest Framework Quiz Sample
+Django Rest Framework Quiz Simple
